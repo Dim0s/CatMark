@@ -1,3 +1,3 @@
 # CatMark-FurryCat
 
-![alt text](https://github.com/Dim0s/CatMark-FurryCat/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Dim0s/CatMark-FurryCat/blob/main/image.jpg?raw=true)
